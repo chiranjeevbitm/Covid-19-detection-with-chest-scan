@@ -45,7 +45,7 @@ This repo contains covid-19 detection with three algorithms , CNN , ResNet 50  a
 ![ResNet50 ROC](Transfer_Learning_ResNet50_GPU/ROC_RN50.png)
 
 
-# ResNet50 model
+# VGG16 model
 
 **VGG16 ACCURACY CURVE**
 
