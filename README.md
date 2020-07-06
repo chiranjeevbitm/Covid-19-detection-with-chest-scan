@@ -6,6 +6,10 @@ This repo contains covid-19 detection with three algorithms , CNN , ResNet 50  a
 * •	Pre trained deep learning model that is transfer learning algorithm VGG-16 is used to increase the accuracy of the proposed model
 
 
+**Sample Dataset Image**
+
+![Dataset image](Sample_Dataset_image.png)
+
 # CNN model
 
 **CNN ACCURACY CURVE**
@@ -50,3 +54,17 @@ This repo contains covid-19 detection with three algorithms , CNN , ResNet 50  a
 **VGG16 ROC**
 
 ![ROC VGG16](TransferLearning_VGG16_GPU/ROC_TL.png)
+
+
+
+**Accuracy comarision table**
+
+![table](acc_comparision.png)
+
+
+
+**Accuracy Comparision graphs**
+
+![bar graphs](Acc_Com_Bar.png)
+
+
