@@ -25,7 +25,7 @@ This repo contains covid-19 detection with three algorithms , CNN , ResNet 50  a
 
 **ResNet50 Confusion Matrics**
 
-![Confusion Matrix ResNet50](Transfer_Learning_ResNet50_GPU/Confusion Matrix_RN50.png)
+![Confusion Matrix ResNet50](Transfer_Learning_ResNet50_GPU/Confusion%20Matrix_RN50.png)
 
 **ResNet50 ROC**
 
