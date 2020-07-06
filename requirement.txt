@@ -1,0 +1,11 @@
+Python  3.7
+Numpy
+Matplotlib
+Seaborn
+sklearn
+PIL
+Pandas
+Tensorflow > 2
+Keras
+tqdm
+cv2
