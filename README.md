@@ -3,6 +3,6 @@ This repo contains covid-19 detection with three algorithms , CNN , ResNet 50  a
 
 # CNN model
 
-![Accuracy CNN](CNN run/Acc_CNN.png)
+![Accuracy CNN](CNN%20run/Acc_CNN.png)
 
-![Confusion Matrix CNN](CNN run/Confusion_Matrix_CNN.png)
+![Confusion Matrix CNN](CNN%20run/Confusion_Matrix_CNN.png)
